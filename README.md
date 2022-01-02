@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Prabhjot410
-- 👀 I’m interested in ... web development but my knowledge is less
-- 🌱 I’m currently learning ... that I want to learn
-- 💞️ I’m looking to collaborate on ...other github content
+-  I'm student of Engineering 
+- 👀 I’m interested in ... web development 
+- 🌱 I’m currently learning ... Front End Development Libraries
+-   
+- 
 
 
 <!---
