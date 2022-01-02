@@ -2,8 +2,7 @@
 -  I'm student of Engineering 
 - 👀 I’m interested in ... web development 
 - 🌱 I’m currently learning ... Front End Development Libraries
--   
-- 
+ 
 
 
 <!---
